@@ -1,0 +1,32 @@
+li{
+    list-style: none; /*sacar los puntos de las listas*/
+}
+
+.container__nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(25, 69, 119);
+}
+
+.logo{
+width: 16em;
+}
+
+.container__ul-icono{
+    display: inline-block;
+    padding-right: 1em;
+    color: #fff;
+}
+
+.nav__ul-button{
+    color: #fff;
+    background-color: rgb(25, 69, 119);
+    border-radius: 0.3em;
+    border-color: #fff;
+}
+
+.banner{
+    width: 100%;
+    height: 30em;
+}

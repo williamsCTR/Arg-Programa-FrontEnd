@@ -1,0 +1,24 @@
+.container__informacion{
+    display: flex;
+}
+
+.img__perfil{
+   border-radius: 5em;
+   padding: 1em;
+}
+
+.container__informacion-div{
+    margin: auto;
+    padding: auto;
+}
+
+.nombre{
+    text-align: center;
+    font-size: 5em;
+    margin-bottom: 0.3em;
+}
+
+.sobreMi{
+    text-align: justify;
+    margin: 0em 3em 3em 3em;
+}
