@@ -18,6 +18,10 @@
     margin-bottom: 0.3em;
 }
 
+.titulo{
+    text-align: center;
+}
+
 .sobreMi{
     text-align: justify;
     margin: 0em 3em 3em 3em;
